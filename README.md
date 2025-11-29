@@ -86,10 +86,10 @@ for i=1:num subplot(num,1,i); plot(t,demod(i,:)); end
 
 # MANUAL CALCULATION
 
-![WhatsApp Image 2025-11-28 at 22 55 08_b5debe0a](https://github.com/user-attachments/assets/c445cd1c-81a6-45c7-b990-0911dfa14e39)
+![WhatsApp Image 2025-11-29 at 13 29 02_eb5a80f1](https://github.com/user-attachments/assets/64734ac2-e371-4bd4-98f3-12e0391808e6)
 
 
-![WhatsApp Image 2025-11-28 at 22 55 08_32190a6d](https://github.com/user-attachments/assets/00d85102-a303-401d-8e3f-2588aad16fee)
+![WhatsApp Image 2025-11-29 at 13 29 03_b59a1c7d](https://github.com/user-attachments/assets/ece05fa7-2341-4d8b-8e50-1403494e1ac6)
 
 # RESULT 
 
